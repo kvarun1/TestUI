@@ -1,0 +1,27 @@
+{
+  "Bannercard_data": [{
+    "background_image": "http://166.62.100.102/MpartnerNewApi/CardImage/Homepage_banner_16_10_2019.jpg",
+    "title": ""
+  },
+    {
+      "background_image": "http://166.62.100.102/MpartnerNewApi/CardImage/Homepage_supersinger_banner_16_10_2019.jpg",
+      "title": ""
+
+    },
+    {
+      "background_image": "http://166.62.100.102/MpartnerNewApi/CardImage/HKVA-Combo-banner-min.jpg",
+      "title": ""
+
+    },
+    {
+      "background_image": "http: //166.62.100.102/MpartnerNewApi/CardImage/INBT-Combo-banner-min.jpg",
+      "title": ""
+
+    },
+    {
+      "background_image": "http://166.62.100.102/MpartnerNewApi/CardImage/banner-for-Mpartner-01-min.jpg",
+      "title": ""
+
+    }
+  ]
+}
